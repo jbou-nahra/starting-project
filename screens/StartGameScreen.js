@@ -1,5 +1,12 @@
+import { TextInput } from "react-native-web";
+
 function StartGameScreen(){
-    return 
+    return (
+        <View>
+            <TextInput />
+            Buttons
+        </View>
+    )
 }
 
 export default StartGameScreen;
