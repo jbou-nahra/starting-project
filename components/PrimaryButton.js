@@ -27,7 +27,8 @@ const styles = StyleSheet.create({
         backgroundColor: '#72063c',
         paddingVertical: 8,
         paddingHorizontal: 16,
-        elevation: 2
+        elevation: 2,
+        borderRadius: 28
     },
     buttonOuterContainer:{
         borderRadius: 28,
